@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App RS Covid-19</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nama_province">Nama Province</string>
+    <string name="back">Back</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama_rumah_sakit">Nama Rumah Sakit</string>
+    <string name="phone">Phone</string>
+    <string name="province">Province</string>
+    <string name="region">Region</string>
+</resources>
